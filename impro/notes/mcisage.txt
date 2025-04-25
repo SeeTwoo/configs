@@ -1,0 +1,51 @@
+-arrivee de moi
+	-bonsoir
+	-bienvenue au village des enfants
+	-match d'impro entre l'equipe "hein" de Nanterre et les "litchi'trons presses" du Chesnay
+	-est-ce qu'on des gens qui ont deja vu un match d'impro dans la salle ? est-ce qu'on a des petits nouveaux
+	-explication match d'improvisation
+		-un match d'impro c'est un spectacle vivant ou deux equipes qui ne se connaissent pas se rejoignent pour vous offrir un spectacle jamais vu. Tout ce que vous allez voir ce soir n'exitste pas encore. Chaque scene, chaque personnage, chaque mot sera improvise par les joueurs.
+	-ambiance public
+		-Je vous rassure, vous ne monterez pas sur scene ce soir. Personne ne va descendre, vous prendre la main et vous tirer ici et vous demander d'etre distrayant par contre, Nous allons quand-meme avoir besoin de vous. Les joueurs de ce soir ne se nourrissent que de 3 choses: l'amour, l'eau fraiche et VOTRE energie. Alors bien sur je comprend, on est samedi, la semaine a ete dure, certains dans cette salle se sont reveille a 14h en ne sachant plus ou ils etaient mais on va avoir besoin de vous. on va separer la salle en deux au niveau de ce couloir la, et vous allez tour a tour faire du bruit et, bien sur, dans la bienveillance et le fair play, faire plus de bruit que l'autre cote de la salle
+		-concours de bruit
+		-potentiometre (d'un cote a l'autre)
+	-explication du vote
+		-sert a designer un vainqueur
+		-le vrai gagnant ce soir, c'est vous public
+		-explication du principe (une equipe, l'autre ou egalite)
+
+-entree de l'arbitre
+	-faire des vannes sur l'arbitre
+
+-entree des joueurs
+	-avoir briefe les joueurs sur l'entree, et sur l'ordre
+	-prendre mes notes dans le faux plafond
+
+-laisser la main a l'arbitre et debut du match
+	-lancer le chrono
+	-avoir une feuille avec les fautes
+	-avoir une feuille avec les themes des impros pour la fin
+
+-premiere periode
+	-explication mixte/comparee
+	-explication des categories
+	-annonce des scores
+
+-mi temps
+	-annonce de la mi temps
+
+-retour de moi
+	-mettage d'ambiance
+
+-retour de l'arbitre et des joueurs
+
+-seconde periode
+
+-fin du match
+	-et c'etait la derniere improvisation de ce match
+
+-etoiles du match
+
+-annonce du score final du match
+
+-fin de la soiree/remerciements
