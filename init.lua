@@ -1,0 +1,11 @@
+vim.opt.number = true
+vim.opt.relativenumber = true
+vim.opt.autoindent = true
+vim.opt.tabstop = 4
+vim.opt.softtabstop = 4
+vim.opt.shiftwidth = 4
+vim.opt.guicursor = ""
+vim.cmd("highlight Normal guibg=#000000")
+vim.cmd("highlight Type guifg=#00cdcd")
+vim.cmd("highlight Statement guifg=#ff50ff")
+vim.opt.colorcolumn = "80"
