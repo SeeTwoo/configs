@@ -6,8 +6,7 @@ vim.opt.softtabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.guicursor = ""
 vim.opt.colorcolumn = "81"
+vim.cmd.colorscheme("blue_pink_theme")
 
-vim.cmd("highlight Normal guibg=#000000")
-vim.cmd("highlight ColorColumn ctermbg=lightgrey guibg=lightgrey")
-
-require("fileheader");
+require("fileheader")
+require("classes")
