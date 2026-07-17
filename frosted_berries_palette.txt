@@ -1,0 +1,13 @@
+brighter red	178,37,41
+crimson berry	142,30,51
+malabar		251,146,14
+lighter red	205,58,79
+salmon		219,153,135
+dark blue	0,35,52
+blueish grey	26,48,59
+		53,110,126
+light grey	90,109,123
+		98,137,152
+white		235,232,227
+mustard		166,123,67
+fendt		46,114,35
