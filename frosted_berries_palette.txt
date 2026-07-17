@@ -1,14 +1,14 @@
 
-crimson berry	142,30,51
-brighter red	178,37,41
-lighter red     205,58,79
-malabar		    251,146,146
-salmon		    219,153,135
-dark blue	    0,35,52
-blueish grey	26,48,59
-		        53,110,126
-light grey	    90,109,123
-		        98,137,152
-white		    235,232,227
-mustard		    166,123,67
-                249,182,95
+crimson berry	142,33,53   #8e2135
+brighter red	178,30,43   #b21e2b
+lighter red     205,59,80   #cd3b50
+malabar		    251,146,146 #fb9292
+salmon		    219,153,135 #db9987
+dark blue	    7,37,54     #072536
+blueish grey	29,50,60    #1d323c
+light grey	    91,110,123  #5b6e7b  
+		        53,110,126  #5a6d7b
+		        99,137,152  #638998
+white		    235,232,227 #ebe8e3
+mustard		    166,123,68  #a67b44
+buttercup       249,182,95  #f8b660
