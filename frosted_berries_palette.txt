@@ -1,6 +1,6 @@
 brighter red	178,37,41
 crimson berry	142,30,51
-malabar		251,146,14
+malabar		251,146,146
 lighter red	205,58,79
 salmon		219,153,135
 dark blue	0,35,52
